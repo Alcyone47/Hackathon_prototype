@@ -48,6 +48,7 @@ body{
     min-height: 500px;
     background:linear-gradient(180deg, #263E75 0%, rgba(38, 62, 117, 0) 100%);
     padding: 2.5em 5em 5em 5em;
+    margin-right:1.5em;
 }
 
 #L1{
