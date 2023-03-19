@@ -22,6 +22,11 @@ body{
     justify-content: space-between;
 }
 
+.icn_l{
+    display: flex;
+    flex-direction: row;
+}
+
 .icn{
     height: 50px;
     width: auto;
@@ -132,6 +137,7 @@ input[type=submit]{
     }
 
     .card{
+        margin: 10px;
         height: auto;;
     }
 
@@ -145,7 +151,7 @@ input[type=submit]{
 
     .f_text{
         margin-top:20px;
-        font-size: 18px;
+        font-size: 17.5px;
     }
 
     .f_input{
