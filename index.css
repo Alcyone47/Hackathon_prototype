@@ -131,9 +131,11 @@ input[type=submit]{
 }
 
 @media screen and (max-width: 768px){
+
     .icn{
         height: 7vw;
         max-height: 50px;
+        margin-right: 5px;
     }
 
     .card{
